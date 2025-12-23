@@ -33,5 +33,4 @@ In springboot
 > these configurations are embedded web server setup and other necessary steps.
 
 1. automatic component scanning.
-2. embedded server configuration.
-3. 
+2. embedded server configuration
